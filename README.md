@@ -31,5 +31,5 @@ We tackle key questions for Airbnb such as:
 - How do property types and locations affect guest satisfaction?
 
 ## Usage
-To interact with the dataset, use the SQL scripts provided in the `queries` folder. Visualization dashboards can be accessed via Tableau files in the `visualizations` folder.
+To interact with the dataset, use the SQL scripts provided in the `queries` folder.
 
