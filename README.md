@@ -24,12 +24,18 @@ Our analysis covers a rich dataset from Airbnb, spanning from 2010 to 2023, deta
 - **Predictive Analytics**: Use of advanced SQL and analytics to predict trends and make recommendations.
 - **Visualization**: Dynamic visualizations of insights using tools like Tableau for better understanding and presentation.
 
+
+Conduct Sentiment Analysis
+![image](https://github.com/ChaitanyaBurri/Airbnb-Insights/assets/60335511/0b192ad2-aca4-47ff-b451-4e5718e03897)
+
+Classify all the reviews
+![image](https://github.com/ChaitanyaBurri/Airbnb-Insights/assets/60335511/e16a4f01-2437-46ea-b981-1b6646cbc02a)
+
+Categorize reviews into topics
+![image](https://github.com/ChaitanyaBurri/Airbnb-Insights/assets/60335511/8279be37-962e-4f4f-9f4b-5232125d6705)
+
 ## Business Questions
 We tackle key questions for Airbnb such as:
 - Which hosts are highly rated and why?
 - What are the earnings from various listings?
 - How do property types and locations affect guest satisfaction?
-
-## Usage
-To interact with the dataset, use the SQL scripts provided in the `queries` folder.
-
